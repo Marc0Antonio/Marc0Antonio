@@ -14,8 +14,3 @@
 <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-loregian-de-paiva-9899a4295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<br>My favorite album in Spotify<br>
-<div>
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0Gl7QJiBqjNsnogLP5yuLb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
