@@ -2,13 +2,22 @@
 
 📚 Second year of high school. 📚
 
-➖My main programming languages in English:➖
-  1. Python
-  2. JavaScript
-  3. Java
-  4. CSS
-  6. Html
+<div align="center">
+    <a href="https://github.com/olliveira-gabriel">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0Antonio&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
+
+<div align="center" style="display: inline_block"><br>
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+  ##
+
+<div align="center"> 
+  <a href = "mailto:marco_paiva@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      
 <div>
   <a href = "mailto:marco_paiva@estudante.sessienai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-loregian-de-paiva-9899a4295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
