@@ -16,3 +16,7 @@
 <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-loregian-de-paiva-9899a4295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<p align="center">
+ <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
+</p>
+
