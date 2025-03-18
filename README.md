@@ -1,22 +1,7 @@
-👋 Hello, my name is Marco and I'm just starting out on github for educational purposes.👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Marc0Antonio&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-📚 Second year of high school. 📚
+### Olá, meu nome é Marco!
 
-<div align="center">
-    <a href="https://github.com/Marc0Antonio">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marc0Antonio&layout=compact&langs_count=7&theme=tokyonight"/>
-    <a href="https://github.com/Marc0Antonio">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marc0Antonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marco&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-  ##
-  
-<div align="center">
-  <a href = "mailto:marco_paiva@estudante.sessienai.org.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-loregian-de-paiva-9899a4295/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
-</p>
-
+<p>Trabalhando no SENAI <br/> Eu sou desenvolvedor de sites e ferramentas</p>
