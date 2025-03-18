@@ -2,6 +2,8 @@
 
 ### Olá, meu nome é Marco!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marc0Antonio&color=5c735e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Github&message=Marc0Antonio&color=5c735e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Gmail&message=Marc0Antonio&color=dd423e&style=for-the-badge&logo=Gmail" alt="Static Gmail">
+<img src="https://img.shields.io/static/v1?label=LinkedIn&message=Marc0Antonio&color=1f5f61&style=for-the-badge&logo=" alt="Static LinkedIn">
 
 <p>Trabalhando no SENAI <br/> Eu sou desenvolvedor de sites e ferramentas</p>
