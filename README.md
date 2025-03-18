@@ -2,6 +2,6 @@
 
 ### Olá, meu nome é Marco!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Marco&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Marc0Antonio&color=5c735e&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Trabalhando no SENAI <br/> Eu sou desenvolvedor de sites e ferramentas</p>
